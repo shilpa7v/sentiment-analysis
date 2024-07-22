@@ -1,1 +1,2 @@
 # sentiment-analysis
+This project is a sentiment analysis application built in Python with a Tkinter GUI. It allows users to input their thoughts or feelings through text or voice. The application analyzes the sentiment using VADER sentiment analysis, displays results with emojis for visual feedback, and provides auditory feedback using text-to-speech technology. It's designed to help users understand their emotional state based on their input.
